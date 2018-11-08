@@ -1,0 +1,15 @@
+Catalogos:
+Puesto
+TipoJornada
+TipoDeduccion
+SalarioxHoras
+TipoMovimiento
+--------------------------
+Obreros
+CuentaBancaria
+Movimientos
+PlanillaSemanal*
+PlanillaMensual*
+Asistencia*
+Deducciones
+
